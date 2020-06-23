@@ -1,2 +1,3 @@
-# himanshujaidka.github.io.1
+# himanshujaidka.github.io
+
 My official website
