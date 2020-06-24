@@ -95,7 +95,6 @@ bottom:300px;
   -moz-border-radius: 8;
   border-radius: 8px;
   font-family: 'Montserrat', sans-serif;
-  font-weight:bolder;
   color: #ffffff;
   font-size: 20px;
   padding: 10px 20px 10px 20px;
@@ -142,9 +141,10 @@ hr{
   font-size: 1.5rem;
   padding: 20px 0;
 }
-a:hover{
+
+.paper:hover{
   background-color:black;
 }
-
 a:active{
   color:red;
+}
