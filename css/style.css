@@ -5,6 +5,12 @@ body{
   font-family: 'Merriweather Sans', sans-serif;
   font-size: 200%;
 }
+#nav{
+  background-color:#30e3ca;
+}
+.icon{
+  width: 40px;
+}
 .dp-img{
   margin-top: 100px;
 }
@@ -69,12 +75,12 @@ h3{
 }
 .top-cloud{
   position:absolute;
-  top:40px;
-  right:300px;
+  top:65px;
+  right:250px;
 }
 .bottom-cloud{
 position:absolute;
-left:250px;
+left:380px;
 bottom:300px;
 }
 .contact-mess{
