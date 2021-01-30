@@ -23,11 +23,15 @@
 <p align="center"><br/><br/> <img src="https://github-readme-stats.vercel.app/api?username=himanshujaidka&show_icons=true" alt="himanshujaidka" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshujaidka"alt="himanshujaidka" /> </p>
 <br/><br/>
 
-<a href="#"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/linkedin.png" width="40" /></a>
-<a href="#"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/youtube-logo.png" width="40" /></a>
-<a href="#"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/patreon_logo.png" width="65" /></a>
-<a href="#"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/github-logo.png" width="40" /></a>
-<a href="#"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/facebook.png" width="40" /></a>
-<a href="#"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/google-plus.png" width="40" /></a>
-<a href="#"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/twitter.png" width="40" /></a>
-<a href="#"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/instagram.png" width="40" /></a>
+<a href="#"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/github-logo.png" width="40" />
+</a>
+<a href="#"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/linkedin.png" width="40" />
+</a>
+<a href="#"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/instagram.png" width="40" />
+</a>
+<a href="#"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/twitter.png" width="40" />
+</a>
+<a href="#"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/facebook.png" width="40" />
+</a>
+
+
