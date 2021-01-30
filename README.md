@@ -1,6 +1,6 @@
 <h1 align="center">Namaste🙏, I'm Himanshu</h1>
 <h3 align="left">The Real Struggler and Full Stack Developer.</h3>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="480px" height="400px"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300px" height="300px"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshujaidka" alt="himanshujaidka" /> </p>
 
 <li align="left"> 🔭 Soon e-commerce store will be launch <a href="#">Name will be announce soon</a></li>
@@ -12,7 +12,7 @@
 <li align="left"> 👨‍💻 All of my projects are available at <a href="https://github.com/himanshujaidka">on my github</a></li>
 
 
-<li align="left"> 💬 Ask me about <b>JavaScript, MERN, python, SQL/MySQL, C/C++</b></li>
+<li align="left"> 💬 Ask me about <b>JavaScript, MERN, python, java, SQL/MySQL, C/C++</b></li>
 
 <li align="left"> 📫 Reach me at: <b>himanshu.jaidka@gmail.com</b></li>
 
