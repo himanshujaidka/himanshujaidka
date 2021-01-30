@@ -1,7 +1,7 @@
 <h1 align="center">Namaste🙏, I'm Himanshu</h1>
 <h3 align="left">The Real Struggler and Full Stack Developer.</h3>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="480px"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin10101998" alt="sachin10101998" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshujaidka" alt="himanshujaidka" /> </p>
 
 <li align="left"> 🔭 Soon e-commerce store will be launch <a href="#">Name will be announce soon</a></li>
 
