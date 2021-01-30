@@ -11,6 +11,8 @@
 
 <li align="left"> 👨‍💻 All of my projects are available at <a href="https://github.com/himanshujaidka">on my github</a></li>
 
+<li align="left"> 👨‍📝 My research paper: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3603739">Evolution of IoT to IIoT: Applications & Challenges</a></li>
+
 
 <li align="left"> 💬 Ask me about <b>JavaScript, MERN, python, java, SQL/MySQL, C/C++</b></li>
 
@@ -23,15 +25,10 @@
 <p align="center"><br/><br/> <img src="https://github-readme-stats.vercel.app/api?username=himanshujaidka&show_icons=true" alt="himanshujaidka" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshujaidka"alt="himanshujaidka" /> </p>
 <br/><br/>
 
-<a href="#"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/github-logo.png" width="40" />
-</a>
-<a href="#"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/linkedin.png" width="40" />
-</a>
-<a href="#"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/instagram.png" width="40" />
-</a>
-<a href="#"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/twitter.png" width="40" />
-</a>
-<a href="#"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/facebook.png" width="40" />
-</a>
+<a href="https://github.com/himanshujaidka"><img src="https://github.com/himanshujaidka/himanshujaidka/blob/master/readme-img/himanshu-github.png" width="40" /></a>
+<a href="https://www.linkedin.com/in/himanshu-jaidka-b39b191a4/"><img src="https://github.com/himanshujaidka/himanshujaidka/blob/master/readme-img/himanshu-linkedin.png" width="40" /></a>
+<a href="https://www.instagram.com/himanshujaidka/?hl=en"><img src="https://github.com/himanshujaidka/himanshujaidka/blob/master/readme-img/himanshu-insta.png" width="40" /></a>
+<a href="#https://twitter.com/jaidka27"><img src="https://github.com/himanshujaidka/himanshujaidka/blob/master/readme-img/himanshu-twitter.png" width="40" /></a>
+<a href="https://www.facebook.com/himanshu.jaidka29"><img src="https://github.com/himanshujaidka/himanshujaidka/blob/master/readme-img/himanshu-fb.png" width="40" /></a>
 
 
