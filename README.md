@@ -1,6 +1,6 @@
 <h1 align="center">Namaste🙏, I'm Himanshu</h1>
 <h3 align="left">The Real Struggler and Full Stack Developer.</h3>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="480px"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="480px"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshujaidka" alt="himanshujaidka" /> </p>
 
 <li align="left"> 🔭 Soon e-commerce store will be launch <a href="#">Name will be announce soon</a></li>
@@ -16,7 +16,7 @@
 
 <li align="left"> 📫 Reach me at: <b>himanshu.jaidka@gmail.com</b></li>
 
-<li align="left"> ⚡ Real fact <b>I belives in Karma</b></li><br/><br/>
+<li align="left"> ⚡ Real fact: <b>I belives in Karma</b></li><br/><br/>
 
 <p align="left"><img src="http://sachinchopra.codes/DeviCon/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="http://sachinchopra.codes/DeviCon/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> <img src="http://sachinchopra.codes/DeviCon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="http://sachinchopra.codes/DeviCon/icons/django/django-original.svg" alt="django" width="40" height="40"/> <img src="http://sachinchopra.codes/DeviCon/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="http://sachinchopra.codes/DeviCon/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="http://sachinchopra.codes/DeviCon/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="http://sachinchopra.codes/DeviCon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="http://sachinchopra.codes/DeviCon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="http://sachinchopra.codes/DeviCon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="http://sachinchopra.codes/DeviCon/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40"/> <img src="http://sachinchopra.codes/DeviCon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="http://sachinchopra.codes/DeviCon/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/><img src="http://sachinchopra.codes/DeviCon/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></p><p align="center"><br/><br/> <img src="https://github-readme-stats.vercel.app/api?username=himanshujaidka&show_icons=true" alt="himanshujaidka" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshujaidka"alt="himanshujaidka" /> </p>
 <br/><br/>
