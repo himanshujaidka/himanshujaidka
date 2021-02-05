@@ -25,7 +25,7 @@
 <p align="center"><br/><br/> <img src="https://github-readme-stats.vercel.app/api?username=himanshujaidka&show_icons=true" alt="himanshujaidka" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshujaidka"alt="himanshujaidka" /> </p>
 <br/><br/>
 
-<div  {text-align: center;}>
+<div align="center">
 <a target="_blank" href="https://github.com/himanshujaidka"><img src="https://github.com/himanshujaidka/himanshujaidka/blob/master/readme-img/himanshu-github.png" width="40" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/himanshu-jaidka-b39b191a4/"><img src="https://github.com/himanshujaidka/himanshujaidka/blob/master/readme-img/himanshu-linkedin.png" width="40" /></a>
 <a target="_blank" href="https://www.instagram.com/himanshujaidka/?hl=en" ><img src="https://github.com/himanshujaidka/himanshujaidka/blob/master/readme-img/himanshu-insta.png" width="40" /></a>
