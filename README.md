@@ -5,7 +5,7 @@
 
 <li align="left"> 🔭 Soon e-commerce store will be launch <a href="#">Name will be announce soon</a></li>
 
-<li align="left"> 👯 I’m very passionated to collaborate with a big project <a href="#">Looking for opportunity</a></li>
+<li align="left"> 👯 I’m very passionated to collaborate to a big project <a href="#">Looking for opportunity</a></li>
 
 <li align="left"> 🤔 Willing to learn <!--<a href="#">AWS Comprehend</a>--></li>
 
