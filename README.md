@@ -12,7 +12,7 @@
 <li align="left"> 👨‍💻 All of my projects are available at <a href="https://github.com/himanshujaidka">on my github</a></li>
 
 <li align="left"> 👨‍📝 1st publication: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3603739">Evolution of IoT to IIoT: Applications & Challenges</a></li>
-<li align="left"> 👨‍📝 2nd publication: <a href="https://iopscience.iop.org/article/10.1088/1757-899X/1022/1/012103#:~:text=In%20order%20to%20have%20secure,without%20involving%20any%20third%20party.&text=Both%20the%20technologies%20possess%20a,gives%20futuristic%20direction%20for%20research.">Integration of Blockchain and IoT (B-IoT): Architecture, Solutions, & Future Research Direction</a></li>
+<li align="left"> 👨‍📝 2nd publication: <a href="https://iopscience.iop.org/article/10.1088/1757-899X/1022/1/012103#:~:text=In%20order%20to%20have%20secure,without%20involving%20any%20third%20party.&text=Both%20the%20technologies%20possess%20a,gives%20futuristic%20direction%20for%20research.">                 Integration of Blockchain and IoT (B-IoT): Architecture, Solutions, & Future Research Direction</a></li>
 
 
 <li align="left"> 💬 Ask me about <b>JavaScript, MERN, python, java, SQL/MySQL, C/C++</b></li>
